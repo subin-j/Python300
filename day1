@@ -8,3 +8,5 @@ printf("naver", "kakao", "sk", "samsung", sep=";")  ## print("naver;kakat;sk;sam
 print("naver/kakao/sk/samsung")
 print("first", end="");print("second") ##  공백이출력되고 다음 프린트가 한줄에 실행된다. end=""은 줄바꿈이 일어나지 않음.
 print(5/3)
+
+##안녕하세요 깃 어려워용 엉엉
